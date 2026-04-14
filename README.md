@@ -1,4 +1,4 @@
-## Hi there 👋
+hi this is a wip ok bye
 
 <!--
 **Rott3nPray3rs/Rott3nPray3rs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
