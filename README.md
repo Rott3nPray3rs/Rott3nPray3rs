@@ -1,4 +1,3 @@
-<img width="736" height="196" alt="Gambit!" src="https://github.com/user-attachments/assets/42d1695c-3d6c-4717-80fe-70685ca0e2c9" />
 
 
 
@@ -16,4 +15,5 @@
 
 $\color{#9b57bd}{\textsf{HI! hello hi! My name is Azure!! }}$<br>
 $\color{#9b57bd}{\textsf{ ♠ she/he }}$ $\color{#9b57bd}{\textsf{pronouns ! }}$ <br>
-$\color{#9b57bd}{\textsf{this is a big wip bleh }}$<br>
+$\color{#9b57bd}{\textsf{im mostly in marvel skins (gambit or emma). c+h is ok!! i loove interacting ok? ok }}$<br>
+$\color{#9b57bd}{\textsf{dni if your under 13, pro/darkship, racist or homophobic plss}}$<br>
