@@ -7,13 +7,60 @@
 
 <img width="1359" height="697" alt="image" src="https://github.com/user-attachments/assets/ccd36a57-6565-4eeb-b624-9a0e88d86421" />
 
+$\color{#9b57bd}{\textsf{emma frost/gambit fans int w me PLEASE PLEASE PLEASE LAWD}}$<br>
 
 
 
 
+<br>
 
-
+   <table>
+    <tr></tr>
+      <td>
+<details>
+<summary>$\color{#dbe1f3}{\textsf{About Me}}$</summary>
 $\color{#9b57bd}{\textsf{HI! hello hi! My name is Azure!! }}$<br>
 $\color{#9b57bd}{\textsf{ ♠ she/he }}$ $\color{#9b57bd}{\textsf{pronouns ! }}$ <br>
 $\color{#9b57bd}{\textsf{im mostly in marvel skins (gambit or emma). c+h is ok!! i loove interacting ok? ok }}$<br>
-$\color{#9b57bd}{\textsf{dni if your under 13, pro/darkship, racist or homophobic plss}}$<br>
+
+
+
+
+<br>
+
+   <table>
+    <tr></tr>
+      <td>
+<details>
+<summary>$\color{#dbe1f3}{\textsf{DNI list}}$</summary>
+$\color{#9b57bd}{\textsf{Proshipers }}$<br>
+$\color{#9b57bd}{\textsf{darkships (anyship with an adult and CHILD) }}$<br>
+$\color{#9b57bd}{\textsf{Racists }}$<br>
+$\color{#9b57bd}{\textsf{homophobes}}$<br>
+$\color{#9b57bd}{\textsf{i DO block freely/will block u if you say smth weird or act weird ok? so dont get bad bruh.}}$<br>
+
+
+
+<br>
+
+   <table>
+    <tr></tr>
+      <td>
+<details>
+<summary>$\color{#dbe1f3}{\textsf{INT list!}}$</summary>
+$\color{#9b57bd}{\textsf{marvel }}$<br>
+$\color{#9b57bd}{\textsf{HoP (house of puso) }}$<br>
+$\color{#9b57bd}{\textsf{dandys world}}$<br>
+$\color{#9b57bd}{\textsf{deltarune }}$<br>
+$\color{#9b57bd}{\textsf{gachiakuta }}$<br>
+$\color{#9b57bd}{\textsf{JJK }}$<br>
+$\color{#9b57bd}{\textsf{TADC}}$<br>
+$\color{#9b57bd}{\textsf{and lots more i just forgot i'll change it if i remember.. }}$<br>
+
+
+
+
+
+
+
+
