@@ -57,10 +57,3 @@ $\color{#9b57bd}{\textsf{JJK }}$<br>
 $\color{#9b57bd}{\textsf{TADC}}$<br>
 $\color{#9b57bd}{\textsf{and lots more i just forgot i'll change it if i remember.. }}$<br>
 
-
-
-
-
-
-
-
