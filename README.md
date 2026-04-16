@@ -39,7 +39,8 @@ $\color{#9b57bd}{\textsf{Proshipers }}$<br>
 $\color{#9b57bd}{\textsf{darkships (anyship with an adult and CHILD) }}$<br>
 $\color{#9b57bd}{\textsf{Racists }}$<br>
 $\color{#9b57bd}{\textsf{homophobes}}$<br>
-$\color{#9b57bd}{\textsf{i DO block freely/will block u if you say smth weird or act weird ok? so dont get bad bruh.}}$<br>
+$\color{#9b57bd}{\textsf{if your under 13 }}$<br>
+   $\color{#9b57bd}{\textsf{i DO block freely/will block u if you say smth weird or act weird ok? so dont get bad bruh.}}$<br>
 </details>
 
 
@@ -58,7 +59,8 @@ $\color{#9b57bd}{\textsf{i DO block freely/will block u if you say smth weird or
 <summary>$\color{#dbe1f3}{\textsf{INT list!}}$</summary>
 $\color{#9b57bd}{\textsf{marvel }}$<br>
 $\color{#9b57bd}{\textsf{HoP (house of puso) }}$<br>
-$\color{#9b57bd}{\textsf{dandys world}}$<br>
+$\color{#9b57bd}{\textsf{MHA }}$<br>
+   $\color{#9b57bd}{\textsf{dandys world}}$<br>
 $\color{#9b57bd}{\textsf{deltarune }}$<br>
 $\color{#9b57bd}{\textsf{gachiakuta }}$<br>
 $\color{#9b57bd}{\textsf{JJK }}$<br>
