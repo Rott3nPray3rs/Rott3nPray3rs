@@ -6,7 +6,7 @@
 <img width="1359" height="697" alt="image" src="https://github.com/user-attachments/assets/ccd36a57-6565-4eeb-b624-9a0e88d86421" />
 
 $\color{#9b57bd}{\textsf{emma frost/gambit fans int w me PLEASE PLEASE PLEASE LAWD}}$<br>
-
+$\color{#9b57bd}{\textsf{credits to @Vexuliii with out his code i couldnt do this ur the goat bruh}}$<br>
 
 
 
