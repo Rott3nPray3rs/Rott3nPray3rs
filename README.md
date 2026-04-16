@@ -12,3 +12,4 @@
 
 $\color{#9b57bd}{\textsf{HI! hello hi! My name is Azure!! }}$<br>
 $\color{#9b57bd}{\textsf{ ♠ she/he }}$ $\color{#9b57bd}{\textsf{pronouns ! }}$ <br>
+$\color{#9b57bd}{\textsf{this is a big wip bleh }}$<br>
