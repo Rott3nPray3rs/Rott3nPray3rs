@@ -19,7 +19,7 @@ $\color{#9b57bd}{\textsf{credits to @Vexuliii with out his code i couldnt do thi
 <summary>$\color{#dbe1f3}{\textsf{About Me}}$</summary>
 $\color{#9b57bd}{\textsf{HI! hello hi! My name is Azure!! }}$<br>
 $\color{#9b57bd}{\textsf{ ♠ she/he }}$ $\color{#9b57bd}{\textsf{pronouns ! }}$ <br>
-$\color{#9b57bd}{\textsf{im mostly in marvel skins (gambit or emma). c+h is ok!! i loove interacting ok? ok }}$<br>
+$\color{#9b57bd}{\textsf{im mostly in marvel skins (gambit or emma most of the time). c+h is ok!! i loove interacting ok? }}$<br>
 
 </details>
  </td>
