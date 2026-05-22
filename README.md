@@ -1,5 +1,5 @@
 <img width="760" height="208" alt="co _ horrere-Picsart-BackgroundRemover" src="https://github.com/user-attachments/assets/f2f5732e-6f52-46de-a476-4eebf4164141" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&duration=1000&pause=2000&color=fedf39&center=true&vCenter=true&width=600&lines=%E2%80%9CASHLEY! Look. at. ME. Toma Toma%2C;%E2%80%9D" title="blehh" ></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&duration=1000&pause=2000&color=fedf39&center=true&vCenter=true&width=600&lines=%E2%80%9C ASHLEY! Look. at. ME. Toma Toma%2C; %E2%80%9D" title="blehh" ></a>
 
 <img src="https://komarev.com/ghpvc/?username=Rott3nPray3rs&color=98ace4&style=for-the-badge&label=Compound+V:" title="blah blah homelander whatever">
 
