@@ -76,5 +76,4 @@ $\color{#fedf39}{\textsf{The boys}}$<br>
 
 
 
-  <img width="512" height="512" alt="Gambit_ Pick A Card-Picsart-BackgroundRemover" src="https://github.com/user-attachments/assets/c689a133-42d0-4eaf-96b3-24714a10cd12" />
-
+ <img width="736" height="414" alt="IMG_2218" src="https://github.com/user-attachments/assets/e4c327c6-c389-4fc6-9425-445f4fabf3df" />
