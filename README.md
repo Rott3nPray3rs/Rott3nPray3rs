@@ -6,8 +6,8 @@
 <img width="1560" height="1040" alt="IMG_2211" src="https://github.com/user-attachments/assets/19cdef85-82f3-4f97-af3a-a19cb2a623f1" />
 
 
-$\color{#2f3378}{\textsf{Homelander fans int w me PLEASE PLEASE PLEASE LAWD}}$<br>
-$\color{#2f3378}{\textsf{credits to @Vexuliii with out his code i couldnt do this ur the goat bruh}}$<br>
+$\color{#e2e2e2}{\textsf{Homelander fans int w me PLEASE PLEASE PLEASE LAWD}}$<br>
+$\color{#e2e2e2}{\textsf{credits to @Vexuliii with out his code i couldnt do this ur the goat bruh}}$<br>
 
 
 
