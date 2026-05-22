@@ -18,9 +18,9 @@ $\color{#2f3378}{\textsf{credits to @Vexuliii with out his code i couldnt do thi
       <td>
 <details>
 <summary>$\color{#dbe1f3}{\textsf{About Me}}$</summary>
-$\color{#fedf39}{\textsf{HI! hello hi! My name is Azure!! }}$<br>
-$\color{#fedf39}{\textsf{ ♠ she/he }}$ $\color{#fedf39}{\textsf{pronouns ! }}$ <br>
-$\color{#fedf39}{\textsf{im mostly in marvel/the boys skins (gambit, emma or homelander most of the time). c+h is ok unless dni!! i loove interacting ok? }}$<br>
+$\color{#2f3378}{\textsf{HI! hello hi! My name is Azure!! }}$<br>
+$\color{#2f3378}{\textsf{ ♠ she/he }}$ $\color{#fedf39}{\textsf{pronouns ! }}$ <br>
+$\color{#2f3378}{\textsf{im mostly in marvel/the boys skins (gambit, emma or homelander most of the time). c+h is ok unless dni!! i loove interacting ok? }}$<br>
 
 </details>
  </td>
@@ -58,17 +58,17 @@ $\color{#fedf39}{\textsf{if your under 13 }}$<br>
       <td>
 <details>
 <summary>$\color{#dbe1f3}{\textsf{INT list!}}$</summary>
-$\color{#fedf39}{\textsf{marvel }}$<br>
-$\color{#fedf39}{\textsf{HoP (house of puso) }}$<br>
-$\color{#fedf39}{\textsf{MHA }}$<br>
-   $\color{#fedf39}{\textsf{dandys world}}$<br>
-$\color{#fedf39}{\textsf{deltarune }}$<br>
-$\color{#fedf39}{\textsf{gachiakuta }}$<br>
-$\color{#fedf39}{\textsf{JJK }}$<br>
-$\color{#fedf39}{\textsf{TADC}}$<br>
-$\color{#fedf39}{\textsf{Resident Evil}}$<br>
-$\color{#fedf39}{\textsf{The boys}}$<br>
-   $\color{#fedf39}{\textsf{and lots more i just forgot i'll change it if i remember.. }}$<br>
+$\color{#a52626}{\textsf{marvel }}$<br>
+$\color{#a52626}{\textsf{HoP (house of puso) }}$<br>
+$\color{#a52626}{\textsf{MHA }}$<br>
+   $\color{#a52626}{\textsf{dandys world}}$<br>
+$\color{#a52626}{\textsf{deltarune }}$<br>
+$\color{#a52626}{\textsf{gachiakuta }}$<br>
+$\color{#a52626}{\textsf{JJK }}$<br>
+$\color{#a52626}{\textsf{TADC}}$<br>
+$\color{#a52626}{\textsf{Resident Evil}}$<br>
+$\color{#a52626}{\textsf{The boys}}$<br>
+   $\color{#a52626}{\textsf{and lots more i just forgot i'll change it if i remember.. }}$<br>
 </details>
  </td>
       </tr>
