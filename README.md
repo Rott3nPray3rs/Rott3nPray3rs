@@ -66,7 +66,7 @@ $\color{#618261}{\textsf{MHA }}$<br>
 $\color{#618261}{\textsf{deltarune }}$<br>
 $\color{#618261}{\textsf{gachiakuta }}$<br>
 $\color{#618261}{\textsf{JJK }}$<br>
-$\color{#618261}{\textsf{TADC}}$<br>
+$\color{#618261}{\textsf{DDLC}}$<br>
 $\color{#618261}{\textsf{Resident Evil}}$<br>
 $\color{#618261}{\textsf{The boys}}$<br>
    $\color{#618261}{\textsf{and lots more i just forgot i'll change it if i remember.. }}$<br>
