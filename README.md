@@ -1,12 +1,12 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=c6ced1&width=435&lines=I+do+love+to+hunt!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=c6ced1&width=435&lines=That+is+a+fax+machine!" alt="Typing SVG" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=Rott3nPray3rs&color=98ace4&style=for-the-badge&label=Arrows:" title="blah blah TMOUW or wtv">
+<img src="https://komarev.com/ghpvc/?username=Rott3nPray3rs&color=98ace4&style=for-the-badge&label=IV's:" title="blah blah the pitt or wtv">
 
-<img width="535" height="138" alt="Screenshot 2026-10-02 111825" src="https://github.com/user-attachments/assets/50286b0c-6fee-4506-b5d8-71a3945d302f" />
+<img width="531" height="195" alt="Screenshot 2026-11-05 200244" src="https://github.com/user-attachments/assets/efee17f4-b3d0-4d6f-923a-1db99e048143" />
 
 
-$\color{#c6ced1}{\textsf{TMOUW fans int w me PLEASE PLEASE PLEASE LAWD}}$<br>
+$\color{#c6ced1}{\textsf{The Pitt fans int w me PLEASE PLEASE PLEASE LAWD}}$<br>
 $\color{#c6ced1}{\textsf{credits to @Vexuliii with out his code i couldnt do this ur the goat bruh}}$<br>
 
 
@@ -60,6 +60,7 @@ $\color{#c6ced1}{\textsf{if your under 13 }}$<br>
 <summary>$\color{#9eb1b4}{\textsf{INT list!}}$</summary>
 $\color{#c6ced1}{\textsf{TMOUW}}$<br>
    $\color{#c6ced1}{\textsf{Deadlock }}$<br>
+   $\color{#c6ced1}{\textsf{The Pitt }}$<br>
    $\color{#c6ced1}{\textsf{marvel }}$<br>
 $\color{#c6ced1}{\textsf{HoP (house of puso) }}$<br>
 $\color{#c6ced1}{\textsf{MHA }}$<br>
@@ -78,4 +79,4 @@ $\color{#c6ced1}{\textsf{The boys}}$<br>
 
 
 
-<img width="736" height="487" alt="download (28)" src="https://github.com/user-attachments/assets/89a6edcc-5c68-4179-871d-84c80259269b" />
+<img width="535" height="209" alt="Screenshot 2026-11-05 195940" src="https://github.com/user-attachments/assets/6f05c4fb-e92c-40e8-997a-8af5ca1be8dc" />
